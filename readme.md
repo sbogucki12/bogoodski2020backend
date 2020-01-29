@@ -2,6 +2,23 @@
 
 The data controllers to support the React app I'm building as my personal sandbox site.  
 
+### Jan. 29, 2020: 
+
+<p>
+	Threw together a quick API to expose data that I've been storing in a MongoDB instance on mLab (for my old runlog -- which I am going to update).
+</p>
+
+<p align="center">
+	<img src="http://g.recordit.co/wXfvbIOfzu.gif" alt="January 29, 2020">
+</p>
+
+<p>
+	<i>That gif may also be viewed </i> <a href="http://g.recordit.co/wXfvbIOfzu.gif" target="_blank" rel="noreferrer noopener">HERE</a>.
+</p>
+
+
+
+
 
 
 ### Jan. 7, 2020: 
